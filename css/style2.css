@@ -1,0 +1,20 @@
+.first_sheet{
+    margin: auto;
+}
+table,th,td {
+    padding: 5px;
+    border: 1px solid gray;
+}
+
+.second_sheet{
+    margin: 20px 31%;
+    width:38%;
+}
+
+.third_sheet{
+    margin: 20px 31%;
+    width:38%;
+    border-collapse: collapse;
+    border-width: 2px;
+
+}

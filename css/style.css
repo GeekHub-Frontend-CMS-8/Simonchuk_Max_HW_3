@@ -1,0 +1,22 @@
+body{
+    max-width: 800px;
+    margin: auto;
+}
+
+.short_about_me li{
+    padding: 8px;
+    margin: 0;
+}
+
+ul{
+    list-style: none;
+}
+
+fieldset {
+    margin-top: 2.5em;
+}
+
+.button{
+    width:57%;
+    padding: 7px;
+}
